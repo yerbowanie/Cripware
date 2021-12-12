@@ -1,3 +1,2 @@
-# Cripware
-.gg/bitchbot.
-.Sincerely, Alan.
+# Cripware .gg/bitchbot
+Sincerely, Alan.
